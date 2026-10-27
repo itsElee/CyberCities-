@@ -1,0 +1,16 @@
+dropped,spearman_vs_base,top10_still_top10,max_shift_in_top10,new_number_1
+tech_occ_share,0.9932457786116325,10,2,San Francisco
+tech_industry_share,0.9868667917448407,10,3,San Jose
+transit_walk_share,0.9983114446529082,10,2,San Jose
+commute_minutes,0.9947467166979365,10,3,San Francisco
+rail_miles_per_100k,0.9966228893058163,10,1,San Jose
+amenities_per_1000,0.9962476547842404,10,2,San Jose
+uza_density,0.9851782363977488,10,4,San Francisco
+distinct_industries,0.9932457786116325,10,1,San Jose
+businesses_per_1000,0.9943714821763603,10,4,San Jose
+gdp_total,0.9964352720450284,10,2,San Jose
+gdp_per_capita,0.9973733583489681,10,1,San Francisco
+growth_2020_2025_pct,0.9919324577861166,10,4,San Francisco
+new_business_apps_per_1000,0.9911819887429645,10,3,San Jose
+gini,0.9836772983114449,10,2,San Jose
+rent_burden_share,0.9943714821763603,10,1,San Jose
